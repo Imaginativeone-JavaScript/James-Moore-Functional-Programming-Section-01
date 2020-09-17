@@ -1,0 +1,7 @@
+- [ ] Section 1: Introduction 0/6 | 27min
+  - [ ] 1. What Is An Application? 5min
+  - [ ] 2. What we'll be building in this course 7min
+  - [ ] 3. What technologies will we be using? 3min
+  - [ ] 4. Who should take this course? 5min
+  - [ ] 5. How to get help 2min
+  - [ ] 6. You're probably doing it wrong 5min
